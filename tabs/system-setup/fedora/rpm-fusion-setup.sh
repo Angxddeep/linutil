@@ -1,6 +1,6 @@
 #!/bin/sh -e
 
-. ../../common-script.sh
+. "$(dirname "$0")/../../common-script.sh"
 
 # https://rpmfusion.org/Configuration
 
